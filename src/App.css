@@ -1,0 +1,17 @@
+.App{
+    margin: 0;
+    padding: 0;
+   
+}
+.box__countries{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+    
+}
+
+h1{
+    margin-left: .8em;
+    color: rgb(202, 32, 32);
+  
+}
